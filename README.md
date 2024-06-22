@@ -23,8 +23,11 @@
 A healthcare scenario where a hospital wants to estimate the incidence of a rare disease, such as a particular type of cancer, in their region. The goal is to predict how many new cases will be reported in a month based on historical data.
 
 ## Video
+<!--
+[![Watch the video](https://img.youtube.com/vi/tbd/hqdefault.jpg)](https://www.youtube.com/watch?v=tbd) 
+-->
 
-[![Watch the video](https://img.youtube.com/vi/tbd/hqdefault.jpg)](https://www.youtube.com/watch?v=tbd)
+We are working on this section. Please check at some other time.
 
 ## Technologies-used
 
