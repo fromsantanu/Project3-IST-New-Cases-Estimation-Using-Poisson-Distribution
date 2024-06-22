@@ -41,7 +41,7 @@ The data set is synthetically generated and used for demonstrating the concept o
 
 The programs are written on jupiter notebook, You may run the program on Google colab by clicking on the colab badge below.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fromsantanu/Project1-EDA-Dengue-Trend/blob/main/Project-1-Dengue-Trend-Over-Time.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fromsantanu/Project3-STM-New-Cases-Estimation-Using-Poisson-Distribution/blob/main/Project3-STM-New-Cases-Estimation-Using-Poisson-Distribution.ipynb)
 
 ## Screenshots
 
