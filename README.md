@@ -1,7 +1,7 @@
 # Project3-STM-New-Cases-Estimation-Using-Poisson-Distribution
 > **Brief Description:** Predict new diseases cases based on Poisson Distribution.
 
-![Project Logo](STMProjects.png)
+![Project Logo](ISTProjects.png)
 
 ---
 
@@ -41,7 +41,7 @@ The data set is synthetically generated and used for demonstrating the concept o
 
 The programs are written on jupiter notebook, You may run the program on Google colab by clicking on the colab badge below.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fromsantanu/Project3-STM-New-Cases-Estimation-Using-Poisson-Distribution/blob/main/Project3-STM-New-Cases-Estimation-Using-Poisson-Distribution.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fromsantanu/Project3-IST-New-Cases-Estimation-Using-Poisson-Distribution/blob/main/Project3-IST-New-Cases-Estimation-Using-Poisson-Distribution.ipynb)
 
 ## Screenshots
 
